@@ -1,5 +1,8 @@
 # JS-SVG_assignment for MMED-1055-01
 
+## Project Description
+Creating a mini version of my SNUGGLE Beer website (FIP project) using html, css and js.
+
 ## Credits
 Burak Turkmen
 
